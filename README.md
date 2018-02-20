@@ -1,2 +1,1 @@
-# hello-world
-Learning: first repository
+Easy peasy, lemon Skeasy
